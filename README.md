@@ -2,4 +2,4 @@
 Learning repository
 
 =======================
-These are teh new tests
+These are the new tests
